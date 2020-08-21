@@ -10,8 +10,6 @@ I currently work full-time in the automation industry and I'm eager to get invol
 
 [<img width="40" height="40" display="inline-block" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg">](https://en.cppreference.com/w/) [<img width="40" height="40" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg">](https://www.qt.io) [<img width="40" height="40" display="inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">](https://www.postgresql.org) [<img width="40" height="40" display="inline-block" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference) 
 
-SQL, JavaScript
-
 ## 🕸️ GitHub Stats
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tobireuen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/mrbolton)  

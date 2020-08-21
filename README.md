@@ -9,7 +9,6 @@ I currently work full-time in the automation industry and I'm eager to get invol
 ## 💡 Skills
 
 <!--- C++ icon --->
-
 ![C++](./devicon/icons/cplusplus/cplusplus-original.svg)
 <img src="./devicon/icons/cplusplus/cplusplus-original.svg">
 

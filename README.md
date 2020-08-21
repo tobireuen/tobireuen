@@ -9,10 +9,9 @@ I currently work full-time in the automation industry and I'm eager to get invol
 ## 💡 Skills
 
 <!--- C++ icon --->
-<img width="40" height="40" display="inline-block" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg">
-<img width="40" height="40" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg">
+[img width="40" height="40" display="inline-block" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/cplusplus/cplusplus-original.svg"](https://en.cppreference.com/w/) [img width="40" height="40" display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg"](https://www.qt.io)
 
-C++, Qt, SQL, JavaScript
+SQL, JavaScript
 
 ## 🕸️ GitHub Stats
 

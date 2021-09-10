@@ -2,7 +2,6 @@
 #### I am a software engineer.
 I currently work full-time in the automation industry and I'm eager to get involved in open source projects.
 
-- 🔭 I’m currently working on [hospitalrun-frontend](https://github.com/HospitalRun/hospitalrun-frontend) 
 - 🌱 I’m currently learning [React](https://github.com/facebook/react) 
 - 🤡 Fun fact: I had 5 wisdom tooth 🦷 
 
